@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "morrocoserver.aternos.me:50251",
+    "port": 5025,
     "version": "",
     "try-creative": false
   },
