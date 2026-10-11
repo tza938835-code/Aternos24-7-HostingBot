@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "morrocoserver.aternos.me:50251",
-    "port": 5025,
+    "ip": "FIRESMP-UToC.aternos.me",
+    "port": 49087,
     "version": "",
     "try-creative": false
   },
